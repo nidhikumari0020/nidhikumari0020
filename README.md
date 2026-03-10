@@ -26,8 +26,8 @@
 ---
 
 ## 📊 GitHub Stats
+![Nidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=nidhikumari0020&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Nidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=nidhikumari0020&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -38,7 +38,6 @@
 ---
 
 ## 💻 Most Used Languages
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhikumari0020&layout=compact&theme=tokyonight)
 
 ---
