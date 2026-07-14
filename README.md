@@ -1,53 +1,104 @@
-# Hi 👋 I'm Nidhi
+# Hi there 👋 I'm Nidhi Kumari
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7B42C&size=25&center=true&vCenter=true&width=500&lines=Aspiring+Full+Stack+Developer;Python+Learner;React+%26+JavaScript+Enthusiast;Building+Projects+Every+Day)
+### Final Year BCA Student | Aspiring Full Stack Developer
 
-💻 Aspiring Full Stack Developer  
-🐍 Currently learning Python  
-⚛️ Interested in React & JavaScript  
-🚀 Documenting my coding journey on GitHub  
+I'm passionate about building modern web applications and continuously improving my development skills. My current focus is on strengthening my JavaScript fundamentals, mastering Data Structures & Algorithms, and building real-world projects that solve practical problems.
+
+I believe in learning by building, so this GitHub is a record of my journey—from writing my first programs to developing complete full-stack applications.
 
 ---
 
-## 🌱 Currently Learning
+## 🚀 About Me
 
-- Python  
-- Data Structures  
-- Backend Development  
+* 🎓 Final Year BCA Student
+* 💻 Aspiring Full Stack Developer
+* 🌱 Currently learning JavaScript, Python, DSA, and Backend Development
+* 🔨 Building projects to improve problem-solving and development skills
+* 📖 Sharing my learning journey through well-organized repositories
+* 🎯 Goal: Secure a Software Developer role and become a backend-focused Full Stack Developer
 
 ---
 
 ## 🛠 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,react,html,css,git,github" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,python,git,github,vscode,mysql" />
 </p>
 
 ---
 
+## 📂 Featured Repositories
+
+### 🌐 Personal Portfolio
+
+A responsive portfolio website showcasing my projects, skills, and learning journey.
+
+### 📚 JavaScript Learning
+
+Hands-on practice covering JavaScript fundamentals, DOM manipulation, asynchronous programming, APIs, and mini projects.
+
+### 🐍 Python Learning Journey
+
+Python concepts including functions, object-oriented programming, file handling, and beginner-friendly projects.
+
+### 💼 Deloitte Virtual Internship
+
+Solutions and project work completed during the Deloitte Virtual Internship program.
+
+---
+
+## 📖 Currently Learning
+
+* JavaScript (Advanced Concepts)
+* DOM Manipulation
+* ES6+
+* Data Structures & Algorithms
+* React
+* Django
+* MySQL
+* REST APIs
+
+---
+
+## 🎯 2026 Roadmap
+
+* ✅ HTML & CSS
+* ✅ JavaScript Fundamentals
+* 🔄 DOM & Advanced JavaScript
+* ⏳ Data Structures & Algorithms
+* ⏳ React
+* ⏳ Django
+* ⏳ Full Stack Projects
+* ⏳ Software Developer Placement
+
+---
+
 ## 📊 GitHub Stats
-![Nidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=nidhikumari0020&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=nidhikumari0020&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nidhikumari0020&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhikumari0020&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
 
-## 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhikumari0020&layout=compact&theme=tokyonight)
+## 💡 What You'll Find Here
+
+* Clean and organized code
+* Learning notes
+* Practice programs
+* Mini projects
+* Full-stack projects
+* Continuous improvements
 
 ---
 
-## 👀 Profile Visitors
+## 🤝 Connect With Me
 
-![Visitor Count](https://komarev.com/ghpvc/?username=nidhikumari0020&color=blue)
+* 💼 LinkedIn: www.linkedin.com/in/nidhi-kumari-tech
+* 🌐 Portfolio: https://nidhikumari0020.github.io/personal-portfolio-v2/
+* 📧 Email: nidhi10kumari16@gmail.com
 
 ---
 
-## 🎯 Goal
-
-Become a backend-heavy full stack developer and build impactful projects.
+> *"Consistency beats intensity. Every commit is one step closer to becoming a better developer."* 🚀
